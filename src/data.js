@@ -2,7 +2,7 @@ export const data = [
   {
     id: 0,
     name: 'Ankur Ahir',
-    bio: 'simple coder wanting stuff. Also literal god among humans simple coder wanting stuff',
+    bio: 'simple coder wanting stuff. Also literal god among humans simple coder wanting stuff simple coder wanting stuff. Also literal god among humans simple coder wanting stuff simple coder wanting stuff. Also literal god among humans simple coder wanting stuff simple coder wanting stuff. Also literal god among humans simple coder wanting stuff simple coder wanting stuff. Also literal god among humans simple coder wanting stuff simple coder wanting stuff. Also literal god among humans simple coder wanting stuff simple coder wanting stuff. Also literal god among humans simple coder wanting stuff',
     pic: 'https://ca-times.brightspotcdn.com/dims4/default/7a68bed/2147483647/strip/true/crop/2048x1152+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fca%2Fe1%2F1cce3965c9a2b4f20aed93bd0b90%2Fla-1560957011-xf3aqvrdf1-snap-image'
   },
   {
